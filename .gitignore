@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Personal and Private Identity Documents
+/Professional shiv.jpg
+/Linkdin Profile.jpeg
+/Government ID Shiv.pdf
+/Experience - Resume Now_cropped.docx
+/College Proof.jpg
+/Forgage/
+
+# Cover Letters & Resume: Ignore all except specific resumes
+/Cover Letters & Resume/*
+!/Cover Letters & Resume/Resume/
+!/Cover Letters & Resume/Main Resume/
+
+/Cover Letters & Resume/Resume/*
+!/Cover Letters & Resume/Resume/Shivshankar_Mali_Resume.pdf
+!/Cover Letters & Resume/Resume/Shivshankar_Mali_Resume.docx
+
+/Cover Letters & Resume/Main Resume/*
+!/Cover Letters & Resume/Main Resume/Shiv_Resume.pdf
+
+# Certificates: Duplicate or Less Important Certificates
+/Certificates/01_Internships_and_Work_Experience/TalentBattle_Internship_Java_DSA.png
+/Certificates/01_Internships_and_Work_Experience/Oasis_Infobyte_Star_Performer_Appreciation.pdf
+/Certificates/05_Course_and_Webinar_Certifications/Web_Development/SkillEcted_NodeJS_MongoDB_Webinar.pdf
+
+# Certificates: Ignored Directories
+/Certificates/05_Course_and_Webinar_Certifications/Cyber_Security/
+/Certificates/06_Coding_Profiles_and_Assessments/
