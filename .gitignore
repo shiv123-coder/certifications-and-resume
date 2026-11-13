@@ -37,7 +37,6 @@ Shiv_Linkdin_Profile.png
 
 # Certificates: Ignored Directories
 /Certificates/05_Course_and_Webinar_Certifications/Cyber_Security/
-/Test results and overall results
 
 Resume/Shivshankar_Mali_CSE_Resume_2027.zip
 main.tex
@@ -54,3 +53,6 @@ Caste_Certificate.jpeg
 
 # Allow only the primary resume
 !/Resume/Shivshankar_Mali_CSE_Resume_2027.pdf
+
+# Private academic results and assessment records
+/Test results and overall results/
